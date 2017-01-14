@@ -1,0 +1,10 @@
+applications:
+- memory: 512M
+  services:
+  - cloudantNoSQLDB
+  env:
+    NODE_RED_STORAGE_NAME: cloudantNoSQLDB
+declared-services:
+  cloudantNoSQLDB:
+    label: cloudantNoSQLDB
+    plan:  Lite
