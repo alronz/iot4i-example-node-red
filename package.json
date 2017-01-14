@@ -35,15 +35,9 @@
     "nano": "~5.11.0",
     "node-red": "0.x",
     "node-red-bluemix-nodes": "1.x",
-    "node-red-contrib-bluemix-hdfs": "0.x",
     "node-red-contrib-ibm-ioti": "git+https://github.com/alronz/node-red-contrib-ibm-ioti.git",
-    "node-red-contrib-ibmpush": "0.x",
-    "node-red-contrib-scx-ibmiotapp": "0.x",
     "node-red-dashboard": "^2.2.1",
-    "node-red-node-cf-cloudant": "0.x",
-    "node-red-node-openwhisk": "0.x",
     "node-red-node-watson": "0.x",
-    "node-red-nodes-cf-sqldb-dashdb": "0.x",
     "redis": "~0.10.1",
     "when": "~3.x"
   }
